@@ -32,6 +32,7 @@ if not Path(dictfname).exists():
       dictf.write(dictfcontents.read())
       print('  Done.')
 
+# TODO: ‘c’
 # Generate the patterns from a context-free grammar.
 pattern_grammar = CFG.fromstring("""
   S -> '1' K V | V '1' V | D | VV | '.' K '2' K '2'
@@ -56,7 +57,7 @@ with open('list/hyphenated.txt', 'w') as listfile:
   for node in lexicon.getroot():
     sana = node[0].text
     pos = hyphenator.positions(sana)
-    letters = [('-' if i in pos and sana[i-1] != '-' else '') + sana[i] for i in range(len(sana))]
+    letters = [('-' if i in pos and sana[i-1] != '-' and sana[i-1] != ' ' else '') + sana[i] for i in range(len(sana))]
     hyphenated = ''.join(letters)
     print(hyphenated)
     listfile.write(''.join(hyphenated))
