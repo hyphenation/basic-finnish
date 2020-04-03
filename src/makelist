@@ -36,17 +36,24 @@ if not Path(dictfname).exists():
 # Generate the patterns from a context-free grammar.
 pattern_grammar = CFG.fromstring("""
   S -> '1' K V | V '1' V | D | VV | DOTKK | REST
-  V -> 'a' | 'e' | 'i' | 'o' | 'u' | 'y' | 'ä' | 'ö'
-  K -> 'b' | 'd' | 'f' | 'g' | 'h' | 'j' | 'k' | 'l' | 'm' | 'n' | 'p' | 'r' | 's' | 'š' | 't' | 'v' | 'z' | 'ž'
-  D -> 'a2i' | 'a2u' | 'i2e' | 'e2i' | 'e2u' | 'u2o' | 'o2i' | 'i2u' | 'y2ö' | 'u2i' | 'o2u' | 'e2y' | 'y2i' | 'ä2y' | 'i2y' | 'ä2i' | 'ö2y' | 'ö2i'
-  VV -> 'a2a' | 'e2e' | 'i2i' | 'o2o' | 'u2u' | 'y2y' | 'ä2ä' | 'ö2ö'
-  DOTKK -> '.' OBSTRUENT '2' LIQUID '2' | '.g2n2' | '.k2h2' | '.k2n2' | '.k2s2' | '.k2v2' | '.p2n2' | '.p2s2' | '.s2h2' | '.s2k2' | '.s2m2' | '.s2n2' | '.s2p2' | '.s2t2' | '.s2v2' | '.t2h2' | '.t2s2' | '.t2š2' | '.t2v2' | '.d2ž2' | '.g2h2' | '.p2h2' | '.p2t2' | '.r2h2' | '.s2f2'
-  OBSTRUENT -> 'b' | 'd' | 'f' | 'g' | 'k' | 'p' | 's' | 't' | 'z'
-  REST -> '.d2n2a' | '.l2v2i'
+  V -> BACK | FRONT | NEUTRAL
+  K -> OBSTRUENT | LIQUID | SIBILANTS | NASALS | GLIDES
+  BACK -> 'a' | 'o' | 'u'
+  NEUTRAL -> 'e' | 'i'
+  FRONT -> 'ä' | 'ö' | 'y'
+  OBSTRUENT -> 'b' | 'd' | 'f' | 'g' | 'k' | 'p' | 's' | 't' | 'v'
   LIQUID -> 'l' | 'r'
+  NASALS -> 'm' | 'n'
+  GLIDES -> 'h' | 'j'
+  SIBILANTS -> 's' | 'š' | 'z' | 'ž'
+  D -> 'a2i' | 'e2i' | 'o2i' | 'ä2i' | 'ö2i' | 'e2y' | 'ä2y' | 'ö2y' | 'a2u' | 'e2u' | 'o2u' | 'u2i' | 'y2i' | 'i2u' | 'i2y' | 'i2e' | 'u2o' | 'y2ö'
+  VV -> 'a2a' | 'e2e' | 'i2i' | 'o2o' | 'u2u' | 'y2y' | 'ä2ä' | 'ö2ö'
+  DOTKK -> '.' OBSTRUENT '2' LIQUID '2' | '.g2n2' | '.k2h2' | '.k2n2' | '.k2s2' | '.k2v2' | '.p2n2' | '.p2s2' | '.s2h2' | '.s2k2' | '.s2m2' | '.s2n2' | '.s2p2' | '.s2t2' | '.s2v2' | '.t2h2' | '.t2s2' | '.t2š2' | '.t2v2' | '.d2ž2' | '.g2h2' | '.p2h2' | '.p2t2' | '.r2h2' | '.s2f2' | '.z2l2'
+  REST -> '.d2n2a' | '.l2v2i'
 """)
 
 # sr and zr don’t appear at the beginning of words, OBSTRUENT LIQUID is still a good approximation.
+# vr and vl don’t appear either
 
 # Generating the patterns
 print('Generating patterns ...')
