@@ -2409,8 +2409,8 @@ ap-pel-sii-ni-mar-me-la-di
 ap-pel-sii-ni-me-hu
 ap-pel-sii-nin-kuo-ri
 ap-pel-sii-ni-puu
-ap-penzel-ler
-ap-penzel-ler-juus-to
+ap-pen-zel-ler
+ap-pen-zel-ler-juus-to
 ap-pi
 ap-piuk-ko
 ap-pi-van-hem-mat
@@ -3915,11 +3915,11 @@ av-vä-li-ne
 a-y-lii-ke
 a-yrs-hi-re-leh-mä
 a-yrs-hi-re-ro-tu
-azer-baidža-ni
-azer-baidža-ni-lai-nen
-azer-baidža-nin -kie-li
-aze-ri
-aze-rin -kie-li
+a-zer-baid-ža-ni
+a-zer-baid-ža-ni-lai-nen
+a-zer-baid-ža-nin -kie-li
+a-ze-ri
+a-ze-rin -kie-li
 baa-na
 baa-ri
 baa-ri
@@ -4275,7 +4275,7 @@ b-lan-ko-luot-to
 b-lan-ko-siir-to
 b-lan-see-ra-ta
 b-las-tu-la
-b-lazer
+b-la-zer
 b-lei-se-ri
 b-li-ni
 b-lo-ka-ta
@@ -4316,13 +4316,13 @@ bok-si-nah-ka
 bo-le-ro
 bo-log-nan-kas-ti-ke
 bol-se-vik-ki
-bolše-vik-ki
+bol-še-vik-ki
 bol-se-vik-ki-val-lan-ku-mous
-bolše-vik-ki-val-lan-ku-mous
+bol-še-vik-ki-val-lan-ku-mous
 bol-se-vis-mi
-bolše-vis-mi
+bol-še-vis-mi
 bol-se-vis-ti-nen
-bolše-vis-ti-nen
+bol-še-vis-ti-nen
 bon-ga-ri
 bon-ga-ta
 bon-gaus
@@ -4500,7 +4500,7 @@ buu-ka-ta
 buuk-kaus
 buu-mi
 buu-ri
-buzu-ki
+bu-zu-ki
 byg-ga
 by-rok-raat-ti
 by-rok-raat-ti-nen
@@ -4651,7 +4651,7 @@ da-tee-ra-ta
 da-tee-raus
 da-tii-vi
 da-tii-vi-ad-ver-bi-aa-li
-datša
+dat-ša
 de-ad-li-ne
 de-a-ler
 de-bat-ti
@@ -5173,7 +5173,7 @@ dy-na-mo-met-ri
 dy-nas-tia
 dys-fa-sia
 dyy-ni
-džonk-ki
+d-žonk-ki
 dö-dö
 dö-sä
 E-AN-koo-di
@@ -8376,7 +8376,7 @@ gee-ni-tek-niik-ka
 gee-ni-vir-he
 gei-ger-mit-ta-ri
 gei-mit
-geiša
+gei-ša
 gei-sir
 ge-la-tii-ni
 ge-mi-naat-ta
@@ -8524,9 +8524,9 @@ goodwill
 goot-ti
 goot-ti-lai-nen
 goot-ti-lai-suus
-gor-gonzo-la
-gor-gonzo-la-juus-to
-gor-gonzo-lan-juus-to
+gor-gon-zo-la
+gor-gon-zo-la-juus-to
+gor-gon-zo-lan-juus-to
 go-ril-la
 gos-pel
 gos-pel-mu-siik-ki
@@ -15591,7 +15591,7 @@ in-ter-fe-rens-si
 in-ter-fe-ro-ni
 in-te-ri-öö-ri
 in-ter-jek-tio
-in-ter-mezzo
+in-ter-mez-zo
 in-ter-mit-toi-va
 in-ter-naat-ti
 in-ter-na-ti-o-naa-li
@@ -16766,7 +16766,7 @@ jazz-lau-la-ja
 jazz-mes-su
 jazz-mu-siik-ki
 jazz-muu-sik-ko
-jazzor-kes-te-ri
+jaz-zor-kes-te-ri
 jazz-tans-si
 jeep-pi
 jee-sa-ta
@@ -18538,7 +18538,7 @@ jä-te-ve-si-mak-su
 jä-te-öl-jy
 jät-kä
 jät-kän-kynt-ti-lä
-jät-känšak-ki
+jät-kän-šak-ki
 jäts-ki
 jät-teen-kul-je-tu-sau-to
 jät-teen-kä-sit-te-ly
@@ -20162,7 +20162,7 @@ ka-me-ra-val-von-ta
 kam-fe-ri
 kam-fe-ri-ti-pat
 ka-mii-na
-ka-mi-kaze-len-tä-jä
+ka-mi-ka-ze-len-tä-jä
 kam-ma-ta
 kam-me-ta
 kam-mio
@@ -25614,7 +25614,7 @@ kir-je-pom-mi
 kir-je-pos-ti
 kir-je-pus-si
 kir-je-ro-maa-ni
-kir-ješak-ki
+kir-je-šak-ki
 kir-je-sa-lai-suus
 kir-je-sen-suu-ri
 kir-jes-hak-ki
@@ -28255,7 +28255,7 @@ kor-vis-sa
 kor-vo
 kor-vus
 ko-se-kant-ti
-košer
+ko-šer
 ko-sia
 ko-si-ja
 ko-si-ma-kir-je
@@ -40393,7 +40393,7 @@ ma-han-suu
 ma-ha-palk-ka
 ma-ha-pii-ron-ki
 ma-ha-puo-li
-ma-ha-radža
+ma-ha-rad-ža
 ma-ha-rau-ha-nen
 ma-ha-syö-pä
 ma-ha-tau-ti
@@ -42723,10 +42723,10 @@ met-vurs-ti
 me-tyy-li-al-ko-ho-li
 me-tyy-lie-lo-ho-pea
 meuh-ka-ta
-mezzo-for-te
-mezzo-pi-a-no
-mezzo-sop-raa-no
-mezzo-tin-to
+mez-zo-for-te
+mez-zo-pi-a-no
+mez-zo-sop-raa-no
+mez-zo-tin-to
 mi
 mi-au
 mi-di
@@ -43558,7 +43558,7 @@ mok-ka-turk-ki
 mo-ko-ma
 mok-sah-dus
 mok-sah-taa
-mokšan -kie-li
+mok-šan -kie-li
 mok-saus
 mok-saut-taa
 mok-sis-kaan
@@ -47229,7 +47229,7 @@ ni-vu-set
 ni-vus-rau-ha-nen
 ni-vus-tai-ve
 ni-vus-ty-rä
-nizzan-sa-laat-ti
+niz-zan-sa-laat-ti
 no
 no-be-lis-ti
 no-duu-li
@@ -50314,7 +50314,7 @@ ou-to
 ou-tous
 out-put
 out-si-der
-ouzo
+ou-zo
 o-vaa-li
 o-vaa-rio
 o-va-ri-aa-li-nen
@@ -50411,8 +50411,8 @@ paa-rit
 paar-ma
 paa-sa-ta
 paa-si
-paaši
-paaši-kam-paus
+paa-ši
+paa-ši-kam-paus
 paas-to
 paas-to-nai-ka
 paas-to-päi-vä
@@ -51800,7 +51800,7 @@ pa-pai-ja
 Pa-pa-koe
 pa-pa-na
 Pa-pa-näy-te
-pa-pa-razzi
+pa-pa-raz-zi
 pa-pat-taa
 pa-pat-ti
 pa-pa-tus
@@ -55320,9 +55320,9 @@ piuk-ka
 piuk-kuus
 piu-paut
 pi-vo
-pizza
-pizze-ria
-pizzica-to
+piz-za
+piz-ze-ria
+piz-zica-to
 pi-äl-lys-mies
 p-laa-na-ta
 p-laa-ni
@@ -57421,7 +57421,7 @@ puis-ton-penk-ki
 puis-ton-var-ti-ja
 puis-to-puu
 puis-to-puu-tar-hu-ri
-puis-tošak-ki
+puis-to-šak-ki
 puis-to-tie
 puis-to-tä-ti
 puis-to-vyö-hy-ke
@@ -60500,7 +60500,7 @@ ra-don
 ra-don-mit-ta-ri
 ra-don-mit-taus
 ra-don-pi-toi-suus
-radža
+rad-ža
 rae
 ra-e-juus-to
 ra-e-ko-ko
@@ -63036,7 +63036,7 @@ ri-kos-tut-ki-mu-sop-pi
 ri-kos-tut-kin-ta
 ri-ko-suu-ti-nen
 rik-sa
-rikša
+rik-ša
 rik-sah-taa
 rik-si
 ril-li-päi-nen
@@ -67136,7 +67136,7 @@ sa-vut-tua
 sa-vu-tus
 sa-vu-va-hin-ko
 sa-vu-ver-ho
-sc-herzo
+sc-her-zo
 sc-hä-fer
 science -fic-ti-on
 sci-fi
@@ -77245,7 +77245,7 @@ teh-tä-vä-a-lue
 teh-tä-vä-kent-tä
 teh-tä-vän-ku-vaus
 teh-tä-vä-pii-ri
-teh-tä-väšak-ki
+teh-tä-vä-šak-ki
 teii-ni
 tei-ka-roi-da
 tei-ka-roin-ti
@@ -79979,24 +79979,24 @@ t-saa-ri-nai-ka
 t-saa-ri-nai-kai-nen
 t-saa-ri-tar
 t-saa-ri-val-ta
-tša-dor
+t-ša-dor
 t-sa-ris-mi
 t-sa-ris-ti-nen
 t-sa-sou-na
 t-sat-si-ki
 t-se
 t-se-ka-ta
-tše-kin -kie-li
-tše-kin-maa-lai-nen
+t-še-kin -kie-li
+t-še-kin-maa-lai-nen
 t-sek-kaus
-tšek-ki
-tšek-ki-läi-nen
+t-šek-ki
+t-šek-ki-läi-nen
 t-sem-pa-ta
 t-semp-pi
 t-sep-to-
-tše-re-mis-si
-tšetšee-ni
-tšetšee-nin -kie-li
+t-še-re-mis-si
+t-šet-šee-ni
+t-šet-šee-nin -kie-li
 t-set-se-kär-pä-nen
 t-sii-ka-ta
 t-si-nus-ki
@@ -94062,7 +94062,7 @@ zu-lu
 öl-jy-puu
 öl-jy-sam-poo
 öl-jy-sa-ta-ma
-öl-jyšeik-ki
+öl-jy-šeik-ki
 öl-jy-so-ra
 öl-jy-so-ra-pääl-lys-te
 öl-jy-so-ra-pääl-lys-tei-nen
