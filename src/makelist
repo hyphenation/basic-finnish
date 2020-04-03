@@ -34,7 +34,7 @@ if not Path(dictfname).exists():
 
 # Generate the patterns from a context-free grammar.
 pattern_grammar = CFG.fromstring("""
-  S -> '1' K V | V '1' V | D | VV
+  S -> '1' K V | V '1' V | D | VV | '.' K '2' K '2'
   V -> 'a' | 'e' | 'i' | 'o' | 'u' | 'y' | 'ä' | 'ö'
   K -> 'b' | 'd' | 'f' | 'g' | 'h' | 'j' | 'k' | 'l' | 'm' | 'n' | 'p' | 'r' | 's' | 'š' | 't' | 'v' | 'z' | 'ž'
   D -> 'a2i' | 'a2u' | 'i2e' | 'e2i' | 'e2u' | 'u2o' | 'o2i' | 'i2u' | 'y2ö' | 'u2i' | 'o2u' | 'e2y' | 'y2i' | 'ä2y' | 'i2y' | 'ä2i' | 'ö2y' | 'ö2i'
