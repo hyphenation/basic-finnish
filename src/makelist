@@ -16,7 +16,7 @@ from xml.etree import ElementTree as ET
 
 # Downloading the dictionary from Kotus if it’ not in the working directory.
 dictfname = 'kotus-sanalista_v1/kotus-sanalista_v1.xml'
-hyphfname = 'src/hyph-fi-x-basic.pat.txt'
+hyphfname = 'tex/hyph-fi-x-basic.pat.txt'
 if not Path(dictfname).exists():
   print('Fetching Kotus’ word list ...')
   response = httpget('http://kaino.kotus.fi/sanat/nykysuomi/kotus-sanalista-v1.tar.gz')
@@ -37,13 +37,13 @@ if not Path(dictfname).exists():
 pattern_grammar = CFG.fromstring("""
   S -> '1' K V | V '1' V | DOTKK | REST
   V -> 'a' | 'e' | 'i' | 'o' | 'u' | 'y' | 'ä' | 'ö'
-  K -> OBSTRUENT | LIQUID | SIBILANTS | NASALS | GLIDES | 'v'
+  K -> OBSTRUENT | LIQUID | SIBILANTS | NASALS | GLIDES | 'v' | 'w'
   OBSTRUENT -> 'b' | 'd' | 'f' | 'g' | 'k' | 'p' | 't'
   LIQUID -> 'l' | 'r'
   NASALS -> 'm' | 'n'
   GLIDES -> 'h' | 'j'
   SIBILANTS -> 's' | 'š' | 'z' | 'ž'
-  DOTKK -> '.' OBSTRUENT '2' LIQUID '2' | '.g2n' | '.k2h2' | '.k2n' | '.k2s' | '.k2v' | '.p2n' | '.p2s' | '.s2h' | '.s2k2' | '.s2m' | '.s2n' | '.s2p2' | '.s2t2' | '.s2v' | '.t2h2' | '.t2s' | '.t2š' | '.t2v' | '.d2ž' | '.g2h' | '.p2h' | '.p2t2' | '.r2h' | '.s2f' | '.z2l' | '.s2l'
+  DOTKK -> '.' OBSTRUENT '2' LIQUID '2' | '.g2n' | '.k2h2' | '.k2n' | '.k2s' | '.k2v' | '.p2n' | '.p2s' | '.s2h' | '.s2k2' | '.s2m' | '.s2n' | '.s2p2' | '.s2t2' | '.s2v' | '.s2w' | '.t2h2' | '.t2s' | '.t2š' | '.t2v' | '.t2w' | '.d2ž' | '.g2h' | '.p2h' | '.p2t2' | '.r2h' | '.s2f' | '.z2l' | '.s2l'
   REST -> '.d2na' | '.l2vi'
 """)
 

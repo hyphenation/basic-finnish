@@ -4131,7 +4131,7 @@ bern-har-di-lais-munk-ki
 bern-har-din-koi-ra
 be-ryl-li
 be-ryl-lium
-bes-serwis-ser
+bes-ser-wis-ser
 best man
 best-sel-ler
 be-to-ni
@@ -5207,7 +5207,7 @@ e-del-tä-jä
 e-del-tä-kä-sin
 e-del-tä-päin
 e-del-tää
-e-delweiss
+e-del-weiss
 e-dem-mä
 e-dem-mäk-si
 e-dem-mäs
@@ -8458,7 +8458,7 @@ gi-ga-
 gi-gant-ti-nen
 gi-gant-ti-ses-ti
 gi-gant-ti-suus
-gi-gawat-ti
+gi-ga-wat-ti
 gi-go-lo
 gil-jo-tii-ni
 gim-ma
@@ -8520,7 +8520,7 @@ gong-gon-gi
 gon-gi
 go-no-kok-ki
 go-nor-rea
-goodwill
+good-will
 goot-ti
 goot-ti-lai-nen
 goot-ti-lai-suus
@@ -9601,7 +9601,7 @@ ha-ra-va-kul-je-tin
 ha-ra-va-pöy-hin
 ha-ra-voi-da
 ha-ra-voin-ti
-hardwa-re
+hard-wa-re
 har-ha
 har-ha-ais-ti-mus
 har-haan
@@ -16088,7 +16088,7 @@ i-ta-li-an-kie-li-nen
 i-ta-li-an-ku-mi-na
 i-ta-li-an-sa-laat-ti
 i-ta-li-an-vint-ti-koi-ra
-i-ta-lowes-tern
+i-ta-lo-wes-tern
 i-ta-ra
 i-ta-ras-ti
 i-ta-ruus
@@ -25067,9 +25067,9 @@ ki-lo-pul-la
 ki-lo-ta-vu
 ki-lo-ton-ni
 ki-lot-taa
-ki-lowat-ti
-ki-lowat-ti-tun-ti
-ki-lowat-ti-tun-ti-mit-ta-ri
+ki-lo-wat-ti
+ki-lo-wat-ti-tun-ti
+ki-lo-wat-ti-tun-ti-mit-ta-ri
 kil-pa
 kil-paa
 kil-pa-a-ja-ja
@@ -26118,7 +26118,7 @@ ki-vey-mä
 ki-veys
 ki-vey-ty-mä
 ki-vi
-kiwi
+ki-wi
 ki-vi-ai-ne
 ki-vi-ai-nes
 ki-vi-ai-ta
@@ -29887,7 +29887,7 @@ ku-mi-mat-to
 ku-mi-na
 ku-mi-na
 ku-mi-nau-ha
-ku-mi-nau-hatwist
+ku-mi-nau-hat-wist
 ku-mi-na-öl-jy
 ku-mi-nen
 ku-mi-pal-lo
@@ -41809,7 +41809,7 @@ me-ga-ta-vu
 me-ga-ton-ni
 me-gat-ren-di
 me-ga-täh-ti
-me-gawat-ti
+me-ga-wat-ti
 me-hen-ki
 me-he-vyys
 me-he-vä
@@ -63881,7 +63881,7 @@ rot-tin-ki-huo-ne-ka-lu
 rot-tin-ki-ko-ri
 rot-tin-ki-nen
 rot-tin-ki-tuo-li
-rottwei-ler
+rott-wei-ler
 ro-tu
 ro-tu-en-nak-ko-luu-lo
 ro-tu-e-rot-te-lu
@@ -66488,8 +66488,8 @@ sa-na-vä-li
 san-daa-li
 san-da-let-ti
 san-di-nis-ti
-sandwich
-sandwich-ra-ken-ne
+sand-wich
+sand-wich-ra-ken-ne
 sa-ne
 sa-nee-ra-ta
 sa-nee-raus
@@ -70244,7 +70244,7 @@ so-fis-ti-koi-tu-nut
 so-fis-ti-nen
 sof-ta
 soft ice
-softwa-re
+soft-wa-re
 so-hais-ta
 so-hia
 soh-jo
@@ -71365,7 +71365,7 @@ so-vi-tu-suh-ri
 spaat-te-li
 spa-gaat-ti
 spa-get-ti
-spa-get-tiwes-tern
+spa-get-ti-wes-tern
 spa-kaat-ti
 spak-ke-li
 spak-la-ta
@@ -71381,7 +71381,7 @@ spas-ti-suus
 spa-ti-aa-li-nen
 spa-ti-aa-li-ses-ti
 spa-ti-aa-li-suus
-speedway
+speed-way
 spek-si
 spek-si
 spek-taak-ke-li
@@ -74967,7 +74967,7 @@ tacon-kuo-ri
 ta-dik-ko
 tae
 tae
-ta-ekwon-do
+ta-ek-won-do
 ta-em-ma
 ta-em-mak-si
 ta-em-mas
@@ -77791,7 +77791,7 @@ te-ras-si-ra-vin-to-la
 te-ras-si-ta-lo
 te-ra-to-gee-ni
 te-ra-to-gee-ni-nen
-te-rawat-ti
+te-ra-wat-ti
 te-re
 ter-ha-kas
 ter-ha-kas-ti
@@ -88908,7 +88908,7 @@ vie-tä-vä
 vie-tä-vän-moi-nen
 vie-tä-väs-ti
 vi-gi-lia
-wigwam
+wig-wam
 vig-va-mi
 vi-ha
 vi-haa-ja
