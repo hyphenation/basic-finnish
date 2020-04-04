@@ -28,11 +28,10 @@ UTF-8
 .s2f
 .s2h
 .s2k2
-.s2l2
+.s2l
 .s2m
 .s2n
 .s2p2
-.s2r2
 .s2t2
 .s2v
 .t2h2

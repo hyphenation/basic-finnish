@@ -38,12 +38,12 @@ pattern_grammar = CFG.fromstring("""
   S -> '1' K V | V '1' V | DOTKK | REST
   V -> 'a' | 'e' | 'i' | 'o' | 'u' | 'y' | 'ä' | 'ö'
   K -> OBSTRUENT | LIQUID | SIBILANTS | NASALS | GLIDES | 'v'
-  OBSTRUENT -> 'b' | 'd' | 'f' | 'g' | 'k' | 'p' | 's' | 't'
+  OBSTRUENT -> 'b' | 'd' | 'f' | 'g' | 'k' | 'p' | 't'
   LIQUID -> 'l' | 'r'
   NASALS -> 'm' | 'n'
   GLIDES -> 'h' | 'j'
   SIBILANTS -> 's' | 'š' | 'z' | 'ž'
-  DOTKK -> '.' OBSTRUENT '2' LIQUID '2' | '.g2n' | '.k2h2' | '.k2n' | '.k2s' | '.k2v' | '.p2n' | '.p2s' | '.s2h' | '.s2k2' | '.s2m' | '.s2n' | '.s2p2' | '.s2t2' | '.s2v' | '.t2h2' | '.t2s' | '.t2š' | '.t2v' | '.d2ž' | '.g2h' | '.p2h' | '.p2t2' | '.r2h' | '.s2f' | '.z2l'
+  DOTKK -> '.' OBSTRUENT '2' LIQUID '2' | '.g2n' | '.k2h2' | '.k2n' | '.k2s' | '.k2v' | '.p2n' | '.p2s' | '.s2h' | '.s2k2' | '.s2m' | '.s2n' | '.s2p2' | '.s2t2' | '.s2v' | '.t2h2' | '.t2s' | '.t2š' | '.t2v' | '.d2ž' | '.g2h' | '.p2h' | '.p2t2' | '.r2h' | '.s2f' | '.z2l' | '.s2l'
   REST -> '.d2na' | '.l2vi'
 """)
 
@@ -54,7 +54,6 @@ level2_grammar = CFG.fromstring("""
 """)
 
 # sr and zr don’t appear at the beginning of words, OBSTRUENT LIQUID is still a good approximation.
-# vr and vl don’t appear either
 
 level1_patterns = set(''.join(rule) for rule in generate(pattern_grammar))
 level2_patterns = set(''.join(rule) for rule in generate(level2_grammar))
@@ -73,6 +72,7 @@ hyphenator = Hyphenator(hyphfname, 1)
 lexicon = ET.parse(dictfname)
 with open('list/hyphenated.txt', 'w') as listfile:
   for node in lexicon.getroot():
+    # TODO Add all flexion
     sana = node[0].text
     pos = hyphenator.positions(sana)
     letters = [('-' if i in pos and sana[i-1] != '-' and sana[i-1] != ' ' else '') + sana[i] for i in range(len(sana))]
