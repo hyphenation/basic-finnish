@@ -1,0 +1,15 @@
+\directlua{
+  local patterns = io.open(kpse.find_file('hyph-fi-x-basic.pat.txt'), 'r'):read('*all')
+  basicfinnish = lang.new()
+  lang.patterns(basicfinnish, patterns)
+  polyglossia.newloader_loaded_languages.basicfinnish = basicfinnish
+}
+\newcount\l@basicfinnish
+\l@basicfinnish=\directlua{tex.sprint(lang.id(basicfinnish))}
+
+\PolyglossiaSetup{basicfinnish}{
+  hyphennames=basicfinnish,
+  % bcp47=fi-x-basic,
+  hyphenmins={1,1},
+  frenchspacing=true
+}
