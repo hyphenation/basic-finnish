@@ -68,6 +68,7 @@ with open(hyphfname, 'w') as pattfile:
     pattfile.write("\n")
 
 # Hyphenate the word list
+print('Hyphenating the word list ...')
 hyphenator = Hyphenator(hyphfname, 1)
 lexicon = ET.parse(dictfname)
 with open('list/hyphenated.txt', 'w') as listfile:
