@@ -43,8 +43,8 @@ pattern_grammar = CFG.fromstring("""
   NASALS -> 'm' | 'n'
   GLIDES -> 'h' | 'j'
   SIBILANTS -> 's' | 'š' | 'z' | 'ž'
-  DOTKK -> '.' OBSTRUENT '2' LIQUID '2' | '.g2n2' | '.k2h2' | '.k2n2' | '.k2s2' | '.k2v2' | '.p2n2' | '.p2s2' | '.s2h2' | '.s2k2' | '.s2m2' | '.s2n2' | '.s2p2' | '.s2t2' | '.s2v2' | '.t2h2' | '.t2s2' | '.t2š2' | '.t2v2' | '.d2ž2' | '.g2h2' | '.p2h2' | '.p2t2' | '.r2h2' | '.s2f2' | '.z2l2'
-  REST -> '.d2n2a' | '.l2v2i'
+  DOTKK -> '.' OBSTRUENT '2' LIQUID '2' | '.g2n' | '.k2h2' | '.k2n' | '.k2s' | '.k2v' | '.p2n' | '.p2s' | '.s2h' | '.s2k2' | '.s2m' | '.s2n' | '.s2p2' | '.s2t2' | '.s2v' | '.t2h2' | '.t2s' | '.t2š' | '.t2v' | '.d2ž' | '.g2h' | '.p2h' | '.p2t2' | '.r2h' | '.s2f' | '.z2l'
+  REST -> '.d2na' | '.l2vi'
 """)
 
 level2_grammar = CFG.fromstring("""
