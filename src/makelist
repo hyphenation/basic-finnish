@@ -35,31 +35,35 @@ if not Path(dictfname).exists():
 # TODO: ‘c’
 # Generate the patterns from a context-free grammar.
 pattern_grammar = CFG.fromstring("""
-  S -> '1' K V | V '1' V | D | VV | DOTKK | REST
-  V -> BACK | FRONT | NEUTRAL
-  K -> OBSTRUENT | LIQUID | SIBILANTS | NASALS | GLIDES
-  BACK -> 'a' | 'o' | 'u'
-  NEUTRAL -> 'e' | 'i'
-  FRONT -> 'ä' | 'ö' | 'y'
-  OBSTRUENT -> 'b' | 'd' | 'f' | 'g' | 'k' | 'p' | 's' | 't' | 'v'
+  S -> '1' K V | V '1' V | DOTKK | REST
+  V -> 'a' | 'e' | 'i' | 'o' | 'u' | 'y' | 'ä' | 'ö'
+  K -> OBSTRUENT | LIQUID | SIBILANTS | NASALS | GLIDES | 'v'
+  OBSTRUENT -> 'b' | 'd' | 'f' | 'g' | 'k' | 'p' | 's' | 't'
   LIQUID -> 'l' | 'r'
   NASALS -> 'm' | 'n'
   GLIDES -> 'h' | 'j'
   SIBILANTS -> 's' | 'š' | 'z' | 'ž'
-  D -> 'a2i' | 'e2i' | 'o2i' | 'ä2i' | 'ö2i' | 'e2y' | 'ä2y' | 'ö2y' | 'a2u' | 'e2u' | 'o2u' | 'u2i' | 'y2i' | 'i2u' | 'i2y' | 'i2e' | 'u2o' | 'y2ö'
-  VV -> 'a2a' | 'e2e' | 'i2i' | 'o2o' | 'u2u' | 'y2y' | 'ä2ä' | 'ö2ö'
   DOTKK -> '.' OBSTRUENT '2' LIQUID '2' | '.g2n2' | '.k2h2' | '.k2n2' | '.k2s2' | '.k2v2' | '.p2n2' | '.p2s2' | '.s2h2' | '.s2k2' | '.s2m2' | '.s2n2' | '.s2p2' | '.s2t2' | '.s2v2' | '.t2h2' | '.t2s2' | '.t2š2' | '.t2v2' | '.d2ž2' | '.g2h2' | '.p2h2' | '.p2t2' | '.r2h2' | '.s2f2' | '.z2l2'
   REST -> '.d2n2a' | '.l2v2i'
+""")
+
+level2_grammar = CFG.fromstring("""
+  S -> VV | D
+  VV -> 'a1a' | 'e1e' | 'i1i' | 'o1o' | 'u1u' | 'y1y' | 'ä1ä' | 'ö1ö'
+  D -> 'a1i' | 'e1i' | 'o1i' | 'ä1i' | 'ö1i' | 'e1y' | 'ä1y' | 'ö1y' | 'a1u' | 'e1u' | 'o1u' | 'u1i' | 'y1i' | 'i1u' | 'i1y' | 'i1e' | 'u1o' | 'y1ö'
 """)
 
 # sr and zr don’t appear at the beginning of words, OBSTRUENT LIQUID is still a good approximation.
 # vr and vl don’t appear either
 
+level1_patterns = set(''.join(rule) for rule in generate(pattern_grammar))
+level2_patterns = set(''.join(rule) for rule in generate(level2_grammar))
+patterns = sorted(level1_patterns - level2_patterns)
 # Generating the patterns
 print('Generating patterns ...')
 with open(hyphfname, 'w') as pattfile:
   pattfile.write("UTF-8\n")
-  for patt in generate(pattern_grammar):
+  for patt in patterns:
     pattfile.write(''.join(patt))
     pattfile.write("\n")
 
@@ -72,6 +76,6 @@ with open('list/hyphenated.txt', 'w') as listfile:
     pos = hyphenator.positions(sana)
     letters = [('-' if i in pos and sana[i-1] != '-' and sana[i-1] != ' ' else '') + sana[i] for i in range(len(sana))]
     hyphenated = ''.join(letters)
-    print(hyphenated)
+    # print(hyphenated)
     listfile.write(''.join(hyphenated))
     listfile.write("\n")
