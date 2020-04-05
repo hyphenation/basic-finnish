@@ -68,7 +68,7 @@ with open(hyphfname, 'w') as pattfile:
 
 # Hyphenate the word list
 print('Hyphenating the word list ...')
-hyphenator = Hyphenator(hyphfname, 1)
+hyphenator = Hyphenator(hyphfname, 1, 1)
 lexicon = ET.parse(dictfname)
 with open('list/hyphenated.txt', 'w') as listfile:
   for node in lexicon.getroot():
