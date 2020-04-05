@@ -32,7 +32,6 @@ if not Path(dictfname).exists():
       dictf.write(dictfcontents.read())
       print('  Done.')
 
-# TODO: ‘c’
 # Generate the patterns from a context-free grammar.
 pattern_grammar = CFG.fromstring("""
   S -> '1' K V | V '1' V | DOTKK | REST
