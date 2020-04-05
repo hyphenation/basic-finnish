@@ -28,7 +28,7 @@ UTF-8
 .p2s
 .p2t2
 .r2h
-.s2c
+.s2c2
 .s2f
 .s2h
 .s2k2
