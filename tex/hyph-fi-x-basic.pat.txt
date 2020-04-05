@@ -42,6 +42,7 @@ UTF-8
 .t2v
 .t2w
 .t2š
+.w2h
 .z2l
 1ba
 1be
