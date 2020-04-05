@@ -10,6 +10,6 @@
 \PolyglossiaSetup{basicfinnish}{
   hyphennames=basicfinnish,
   % bcp47=fi-x-basic,
-  hyphenmins={1,1},
+  hyphenmins={2,2},
   frenchspacing=true
 }
