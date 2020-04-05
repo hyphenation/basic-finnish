@@ -38,12 +38,12 @@ pattern_grammar = CFG.fromstring("""
   S -> '1' K V | V '1' V | DOTKK | REST
   V -> 'a' | 'e' | 'i' | 'o' | 'u' | 'y' | 'ä' | 'ö'
   K -> OBSTRUENT | LIQUID | SIBILANTS | NASALS | GLIDES | 'v' | 'w'
-  OBSTRUENT -> 'b' | 'd' | 'f' | 'g' | 'k' | 'p' | 't'
+  OBSTRUENT -> 'b' | 'c' | 'd' | 'f' | 'g' | 'k' | 'p' | 't'
   LIQUID -> 'l' | 'r'
   NASALS -> 'm' | 'n'
   GLIDES -> 'h' | 'j'
   SIBILANTS -> 's' | 'š' | 'z' | 'ž'
-  DOTKK -> '.' OBSTRUENT '2' LIQUID '2' | '.g2n' | '.k2h2' | '.k2n' | '.k2s' | '.k2v' | '.p2n' | '.p2s' | '.s2h' | '.s2k2' | '.s2m' | '.s2n' | '.s2p2' | '.s2t2' | '.s2v' | '.s2w' | '.t2h2' | '.t2s' | '.t2š' | '.t2v' | '.t2w' | '.d2ž' | '.g2h' | '.p2h' | '.p2t2' | '.r2h' | '.s2f' | '.z2l' | '.s2l'
+  DOTKK -> '.' OBSTRUENT '2' LIQUID '2' | '.g2n' | '.k2h2' | '.k2n' | '.k2s' | '.k2v' | '.p2n' | '.p2s' | '.s2h' | '.s2k2' | '.s2m' | '.s2n' | '.s2p2' | '.s2t2' | '.s2v' | '.s2w' | '.t2h2' | '.t2s' | '.t2š' | '.t2v' | '.t2w' | '.d2ž' | '.g2h' | '.p2h' | '.p2t2' | '.r2h' | '.s2f' | '.z2l' | '.s2l' | '.s2c'
   REST -> '.d2na' | '.l2vi'
 """)
 

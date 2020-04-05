@@ -236,7 +236,7 @@ abst-rak-tius
 ab-sur-di
 ab-sur-dis-ti
 ab-sur-dius
-aca-jou-päh-ki-nä
+a-ca-jou-päh-ki-nä
 a-da-gio
 a-dap-taa-tio
 a-dap-te-ri
@@ -1453,7 +1453,7 @@ al-ku-ai-ne
 al-ku-as-te
 al-ku-a-su-kas
 al-ku-a-su-kas-hei-mo
-al-kucock-tail
+al-ku-cock-tail
 al-kud-rink-ki
 al-ku-e-liö
 al-ku-e-läin
@@ -2078,7 +2078,7 @@ a-na-to-mi
 a-na-to-mia
 a-na-to-mi-nen
 a-na-to-mi-ses-ti
-ancy-lus-kau-si
+an-cy-lus-kau-si
 an-dan-te
 an-dan-ti-no
 and-ro-gee-ni
@@ -4530,9 +4530,9 @@ ca-me-o-roo-li
 cam-ping
 cam-pus
 ca-nas-ta
-cancan
+can-can
 can-nel-lo-ni
-cap-pucci-no
+cap-puc-ci-no
 ca-sa-no-va
 cas-hew-päh-ki-nä
 ca-te-ring
@@ -4575,15 +4575,15 @@ c-hip-pen-da-le-ka-lus-to
 c-hip-pen-da-le-tyy-li
 c-hip-pen-da-le-tyy-li-nen
 c-hips
-cice-ro
+ci-ce-ro
 cir-rus
 cir-rus-pil-vi
 ci-ty
 ci-ty-kult-tuu-ri
 ci-vis
-c-le-a-ring
-c-le-a-ring-kurs-si
-c-lou
+cle-a-ring
+cle-a-ring-kurs-si
+clou
 coc-kers-pa-nie-li
 cock-tail
 cock-tail-kir-sik-ka
@@ -4607,14 +4607,14 @@ cou-lom-bi
 count-ry
 count-ry-mu-siik-ki
 coupé
-couscous
+cous-cous
 cow-boy
 cow-bo-y-hat-tu
-c-rack
+crack
 crè-me f-raîc-he
 crê-pe
-c-rescen-do
-c-rois-sant
+cres-cen-do
+crois-sant
 csárdás
 cum lau-de
 cum lau-de app-ro-ba-tur
@@ -4994,7 +4994,7 @@ dip-paus-kas-ti-ke
 dip-pi
 dip-pi-kas-ti-ke
 di-rec-tor can-tus
-di-rec-tor mu-sices
+di-rec-tor mu-si-ces
 di-rek-tii-vi
 di-rek-to-raat-ti
 dir-ha-mi
@@ -5098,7 +5098,7 @@ draa-ma-kir-jal-li-suus
 draa-mal-li-nen
 draa-mal-li-ses-ti
 draa-mal-li-suus
-drag racing
+drag ra-cing
 drag s-how
 drags-te-ri
 drak-ma
@@ -5179,7 +5179,7 @@ dö-sä
 E-AN-koo-di
 e-au de Co-log-ne
 e-bo-niit-ti
-ecu
+e-cu
 e-dam
 e-da-min-juus-to
 e-dam-juus-to
@@ -7104,7 +7104,7 @@ e-rään-lai-nen
 e-rään-ty-mis-päi-vä
 e-rään-tyä
 e-sans-si
-esca-ri-ol-sa-laat-ti
+es-ca-ri-ol-sa-laat-ti
 e-si-
 e-si-as-te
 e-si-a-vi-ol-li-nen
@@ -8016,7 +8016,7 @@ flaa-min kie-li
 flak-si
 flam-bee-ra-ta
 flam-bee-raus
-fla-menco
+fla-men-co
 fla-min-go
 fla-min-go-kuk-ka
 fla-nel-li
@@ -8103,7 +8103,7 @@ fo-no-lo-gi-nen
 fo-no-lo-gi-ses-ti
 fon-ta-nel-li
 foo-ru-mi
-force ma-jeu-re
+for-ce ma-jeu-re
 fo-rel-li
 for-maa-li
 for-maa-li-nen
@@ -8188,11 +8188,11 @@ fra-see-ra-ta
 fra-see-raus
 fra-se-o-lo-gia
 fra-se-o-lo-gi-nen
-free-lance
-free-lance-näyt-te-li-jä
-free-lancer
-free-lance-toi-mit-ta-ja
-free-lance-työ
+free-lan-ce
+free-lan-ce-näyt-te-li-jä
+free-lan-cer
+free-lan-ce-toi-mit-ta-ja
+free-lan-ce-työ
 free-sia
 frees-ty-le
 fre-gat-ti
@@ -9398,7 +9398,7 @@ ha-na-kas-ti
 ha-nak-ka
 ha-nak-kuus
 ha-na-o-lut
-han-dicap
+han-di-cap
 handsf-ree-toi-min-to
 han-du
 han-ga-ta
@@ -14326,7 +14326,7 @@ i-an-kai-ken
 i-an-kaik-ki-nen
 i-an-kaik-ki-ses-ti
 i-an-kaik-ki-suus
-icing
+i-cing
 i-dea
 i-de-aa-li
 i-de-aa-li-nen
@@ -39681,7 +39681,7 @@ maail-mal-li-nen
 maail-mal-lis-tua
 maail-mal-li-suus
 maail-ma-nai-ka
-maail-mancup
+maail-man-cup
 maail-ma-nen-nä-tys
 maail-ma-nen-nä-ty-sai-ka
 maail-ma-nen-nä-tys-juok-su
@@ -50154,7 +50154,7 @@ o-soit-teis-to
 o-soit-te-lu
 o-soi-tus
 os-si
-os-so buco
+os-so bu-co
 os-taa
 os-ta-ja
 os-ta-ja-maa
@@ -52287,7 +52287,7 @@ pa-saa-si
 pa-saa-ti
 pa-saa-ti-tuu-li
 pa-saa-ti-vyö-hy-ke
-pascal
+pas-cal
 pa-see-rail-la
 pa-see-ra-ta
 pas-ha
@@ -53911,7 +53911,7 @@ pi-a-no-te-os
 pi-a-not-rio
 pi-a-no-tun-ti
 pi-a-no-tuo-li
-picco-lo
+pic-co-lo
 pick-up
 pic-nic
 pi-del-lä
@@ -55322,7 +55322,7 @@ piu-paut
 pi-vo
 piz-za
 piz-ze-ria
-piz-zica-to
+piz-zi-ca-to
 pi-äl-lys-mies
 plaa-na-ta
 plaa-ni
@@ -56128,7 +56128,7 @@ poo-lo-pu-se-ro
 pop
 po-pa-ta
 po-pa-ta
-popcorn
+pop-corn
 po-pi-do-li
 pop-kult-tuu-ri
 pop-la-ri
@@ -67138,7 +67138,7 @@ sa-vu-va-hin-ko
 sa-vu-ver-ho
 sc-her-zo
 sc-hä-fer
-science fic-ti-on
+scien-ce fic-ti-on
 sci-fi
 sci-fi-e-lo-ku-va
 sci-fi-ro-maa-ni
@@ -69769,7 +69769,7 @@ si-taat-ti-lai-na
 si-tais-ta
 si-tai-su
 si-tar
-sitcom
+sit-com
 si-tee-ra-ta
 si-tee-raus
 -si-tei-nen
@@ -70243,7 +70243,7 @@ so-fis-tiik-ka
 so-fis-ti-koi-tu-nut
 so-fis-ti-nen
 sof-ta
-soft ice
+soft i-ce
 soft-wa-re
 so-hais-ta
 so-hia
@@ -71413,7 +71413,7 @@ spe-si-fi-kaa-tio
 spe-si-fi-nen
 spe-si-fi-oi-da
 spe-si-fi-oin-ti
-spicca-to
+spic-ca-to
 spii-ka-ta
 spiik-kaus
 spiik-ke-ri
@@ -74962,8 +74962,8 @@ ta-bu-laat-to-ri
 ta-bu-loi-da
 ta-bu-loin-ti
 ta-bu-loin-ti-näp-päin
-taco
-tacon-kuo-ri
+ta-co
+ta-con-kuo-ri
 ta-dik-ko
 tae
 tae
@@ -79032,7 +79032,7 @@ T-luu-pih-vi
 to-a-let-ti
 to-a-let-ti-lauk-ku
 to-a-let-ti-pa-pe-ri
-tocca-ta
+toc-ca-ta
 to-del-la
 to-del-li-nen
 to-del-li-ses-ti
@@ -79634,8 +79634,8 @@ tor-vi-seit-sik-ko
 tor-vi-sie-ni
 tor-vi-soit-to
 tor-vi-soit-to-kun-ta
-tosca-kak-ku
-tosca-lei-vos
+tos-ca-kak-ku
+tos-ca-lei-vos
 to-si
 to-si-aan
 to-si-ai-kai-nen
@@ -79813,7 +79813,7 @@ trak-to-ri-työ-ko-ne
 tral-li
 tram-pa-ta
 tram-po-lii-ni
-trance
+tran-ce
 tran-see-ra-ta
 trans-fe-rens-si
 trans-for-maa-tio
@@ -79882,7 +79882,7 @@ tree-ni-sa-li
 tref-fa-ta
 tref-fit
 tre-mo-lo
-trenchco-at
+trench-co-at
 tren-di
 tren-dik-kyys
 tren-dik-kääs-ti
@@ -90458,7 +90458,7 @@ viu-lu-tai-de
 viu-lu-tai-tei-li-ja
 viu-lu-te-os
 viu-lu-tun-ti
-vi-vace
+vi-va-ce
 vi-vah-de
 vi-vah-de-e-ro
 vi-vah-de-ri-kas

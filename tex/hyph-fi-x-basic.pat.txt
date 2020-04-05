@@ -1,6 +1,8 @@
 UTF-8
 .b2l2
 .b2r2
+.c2l2
+.c2r2
 .d2l2
 .d2na
 .d2r2
@@ -25,6 +27,7 @@ UTF-8
 .p2s
 .p2t2
 .r2h
+.s2c
 .s2f
 .s2h
 .s2k2
@@ -51,6 +54,14 @@ UTF-8
 1by
 1bä
 1bö
+1ca
+1ce
+1ci
+1co
+1cu
+1cy
+1cä
+1cö
 1da
 1de
 1di
