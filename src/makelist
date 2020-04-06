@@ -74,7 +74,15 @@ pattern_grammar = CFG.fromstring("""
     | '.t2š' \
     | '.w2h' \
     | '.z2l'
-  REST -> '.d2na' | '.l2vi'
+  REST -> '.d2na' | '.l2vi' \
+    | 'a1ii' | 'a1uu' \
+    | 'e1ii' | 'e1uu' | 'e1yy' \
+    | 'i1ee' | 'i1uu' | 'i1yy' \
+    | 'o1ii' | 'o1uu' \
+    | 'u1ii' | 'u1oo' \
+    | 'y1ii' | 'y1öö' \
+    | 'ä1ii' | 'ä1yy' \
+    | 'ö1ii' | 'ö1yy'
 """)
 
 level2_grammar = CFG.fromstring("""
