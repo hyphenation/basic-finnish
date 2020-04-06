@@ -82,7 +82,15 @@ pattern_grammar = CFG.fromstring("""
     | 'u1ii' | 'u1oo' \
     | 'y1ii' | 'y1öö' \
     | 'ä1ii' | 'ä1yy' \
-    | 'ö1ii' | 'ö1yy'
+    | 'ö1ii' | 'ö1yy' \
+    | 'aa1i' | 'aa1u' \
+    | 'ee1i' | 'ee1u' | 'ee1y' \
+    | 'ii1e' | 'ii1u' | 'ii1y' \
+    | 'oo1i' | 'oo1u' \
+    | 'uu1i' | 'uu1o' \
+    | 'yy1i' | 'yy1ö' \
+    | 'ää1i' | 'ää1y' \
+    | 'öö1i' | 'öö1y'
 """)
 
 level2_grammar = CFG.fromstring("""
