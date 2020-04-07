@@ -79764,7 +79764,7 @@ tou-ko-kui-nen
 tou-ko-kuu
 tou-ko-pel-to
 tou-ko-työt
-touon-te-ko
+tou-on-te-ko
 tour-ne-dos
 tou-tain
 tou-vi
