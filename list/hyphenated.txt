@@ -13045,7 +13045,7 @@ huos-taa-not-to
 huos-tas-sa
 huos-tas-ta
 huot-ra
-huoun-ta
+huo-un-ta
 huo-va-ta
 huo-vi
 huo-vi-kas
