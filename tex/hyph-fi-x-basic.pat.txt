@@ -27,6 +27,8 @@ UTF-8
 .p2r2
 .p2s
 .p2t2
+.q2l2
+.q2r2
 .r2h
 .s2c2
 .s2f
@@ -36,6 +38,7 @@ UTF-8
 .s2m
 .s2n
 .s2p2
+.s2q
 .s2t2
 .s2v
 .s2w
@@ -144,6 +147,14 @@ UTF-8
 1py
 1pä
 1pö
+1qa
+1qe
+1qi
+1qo
+1qu
+1qy
+1qä
+1qö
 1ra
 1re
 1ri

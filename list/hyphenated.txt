@@ -4083,7 +4083,7 @@ bébé
 be-bee
 be-bop
 béc-ha-mel-kas-ti-ke
-becqu-e-rel
+bec-qu-e-rel
 bed and b-re-ak-fast
 be-du-ii-ni
 be-du-ii-ni-hei-mo
@@ -4361,13 +4361,13 @@ bo-tu-lii-ni
 bo-tu-lis-mi
 bou-gain-vil-le-a
 bouil-la-bais-se
-bouqu-et
+bou-qu-et
 bour-bon
 bour-bon-vis-ki
 bou-ret-te
 bour-gog-ne
 bour-gog-ne-vii-ni
-bou-tiqu-e
+bou-ti-qu-e
 bo-yf-riend
 bo-y-sen-mar-ja
 braat-vurs-ti
@@ -16366,7 +16366,7 @@ jaa-rit-te-lu
 jaa-ri-tus
 jaar-li
 jaa-ää-ni
-jacqu-ard
+jac-qu-ard
 ja-de
 ja-e
 ja-el-la
@@ -53784,7 +53784,7 @@ pe-sä-val-ke-a
 pe-ta-
 pe-tan-kis-ti
 pe-tank-ki
-pe-tanqu-e
+pe-tan-qu-e
 pe-ta-ta
 pe-taus
 pe-taus-pat-ja
@@ -62398,7 +62398,7 @@ re-päi-sy-kork-ki
 re-päi-sy-nau-ha
 re-päi-sy-reu-na
 re-päi-sy-vii-va
-requiem
+re-quiem
 re-se-da
 re-sep-ti
 re-sep-ti-lää-ke
@@ -63789,9 +63789,9 @@ rop-sau-tel-la
 rop-saut-taa
 rop-se
 rop-si-a
-roqu-e-fort
-roqu-e-for-tin-juus-to
-roqu-e-fort-juus-to
+ro-qu-e-fort
+ro-qu-e-for-tin-juus-to
+ro-qu-e-fort-juus-to
 ro-ro-a-lus
 rosé
 ro-see
@@ -77777,7 +77777,7 @@ tep-si-ä
 tep-su-tel-la
 tep-sut-taa
 tep-su-tus
-tequi-la
+te-qui-la
 te-ra-
 te-ra-jou-le
 te-ra-peut-ti
