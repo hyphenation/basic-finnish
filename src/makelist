@@ -93,7 +93,8 @@ pattern_grammar = CFG.fromstring("""
     | 'ää1i' | 'ää1y' \
     | 'öö1i' | 'öö1y' \
     | 'ai1e' | 'ai1u' | 'ai1y' \
-    | 'iu1o'
+    | 'iu1o' \
+    | 'oi1e' \
 """)
 
 level2_grammar = CFG.fromstring("""

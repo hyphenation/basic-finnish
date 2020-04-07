@@ -7072,7 +7072,7 @@ er-sä
 er-sän kie-li
 e-rup-tii-vi-ki-vi-la-ji
 e-rup-tii-vi-nen
-e-ryt-ro-poie-tii-ni
+e-ryt-ro-poi-e-tii-ni
 e-rä
 e-rä-a-jo
 e-rä-a-lu-e
@@ -48803,7 +48803,7 @@ o-huus
 oi
 oi-di-paa-li-nen
 oi-di-pus-komp-lek-si
-oie-ta
+oi-e-ta
 oi-joi
 oi-kais-ta
 oi-kai-su
@@ -55575,7 +55575,7 @@ poh-jus-tus
 poh-keen-väis-tö
 -poh-kei-nen
 poh-ti-a
-poies
+poi-es
 poi'in-ta
 poi'it-taa
 poi'i-tus
