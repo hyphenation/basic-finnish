@@ -33512,7 +33512,7 @@ lais-kan-läk-sy
 lais-kan-puls-ke-a
 lais-kan-päi-vä
 lais-kan-sit-ke-ä
-lais-kan-säie
+lais-kan-säi-e
 lais-kan-vir-ka
 lais-kas-ti
 lais-ki-ai-nen
@@ -46863,7 +46863,7 @@ nii-ni-nen
 nii-ni-puu
 nii-ni-so-lu
 nii-ni-syy
-nii-ni-säie
+nii-ni-säi-e
 niin-ku
 niin kuin
 niin kut-sut-tu
@@ -74397,8 +74397,8 @@ sä-häh-tää
 sä-häk-kyys
 sä-häk-kä
 sä-hä-käs-ti
-säie
-säie-kimp-pu
+säi-e
+säi-e-kimp-pu
 säih-ke
 säih-ky-sää-ri
 säih-ky-sää-ri-nen
@@ -89209,7 +89209,7 @@ viik-si-käs
 -viik-si-nen
 viik-si-niek-ka
 viik-si-siip-pa
-viik-si-säie
+viik-si-säi-e
 vii-ku-na
 vii-ku-nan-leh-ti
 vii-ku-na-puu
