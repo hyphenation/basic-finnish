@@ -92,7 +92,7 @@ pattern_grammar = CFG.fromstring("""
     | 'yy1i' | 'yy1ö' \
     | 'ää1i' | 'ää1y' \
     | 'öö1i' | 'öö1y' \
-    | 'ai1e' | 'ai1u' | 'ai1y' \
+    | 'ai1e' | 'ai1u' | 'ai1y' | 'au1o' \
     | 'iu1o' \
     | 'oi1e' \
     | 'uo1u' \
