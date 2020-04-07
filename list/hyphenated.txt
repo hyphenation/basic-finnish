@@ -61854,7 +61854,7 @@ rau-ta-tie-vau-nu
 rau-ta-tie-verk-ko
 rau-ta-tie-vir-kai-li-ja
 rau-ta-tie-vir-ka-mies
-rau-ta-tieyh-teys
+rau-ta-tie-yh-teys
 rau-ta-va-li-mo
 rau-ta-val-mis-te
 rau-ta-viht-ril-li
@@ -78471,7 +78471,7 @@ tie-tää
 tie-tääk-seen
 tie-tön
 tie-verk-ko
-tieyh-teys
+tie-yh-teys
 ti-heik-kö
 ti-hen-nys
 ti-hen-ty-mä
