@@ -10498,7 +10498,7 @@ hel-lun-tai-lai-suus
 hel-lun-tai-lii-ke
 hel-lun-tai-päi-vä
 hel-lun-tai-seu-ra-kun-ta
-hel-lun-taiys-tä-vä
+hel-lun-tai-ys-tä-vä
 hel-lu-rei
 hel-lyt-tää
 hel-lyy-den-kai-puu
