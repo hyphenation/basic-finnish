@@ -50,6 +50,8 @@ UTF-8
 .t2w
 .t2š
 .w2h
+.x2l2
+.x2r2
 .z2l
 1ba
 1be
@@ -195,6 +197,14 @@ UTF-8
 1wy
 1wä
 1wö
+1xa
+1xe
+1xi
+1xo
+1xu
+1xy
+1xä
+1xö
 1za
 1ze
 1zi

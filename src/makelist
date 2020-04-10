@@ -37,7 +37,7 @@ pattern_grammar = CFG.fromstring("""
   S -> '1' K V | V '1' V | DOTKK | REST
   V -> 'a' | 'e' | 'i' | 'o' | 'u' | 'y' | 'ä' | 'ö'
   K -> OBSTRUENT | LIQUID | SIBILANTS | NASALS | GLIDES | 'v' | 'w'
-  OBSTRUENT -> 'b' | 'c' | 'd' | 'f' | 'g' | 'k' | 'p' | 'q' | 't'
+  OBSTRUENT -> 'b' | 'c' | 'd' | 'f' | 'g' | 'k' | 'p' | 'q' | 't' | 'x'
   LIQUID -> 'l' | 'r'
   NASALS -> 'm' | 'n'
   GLIDES -> 'h' | 'j'

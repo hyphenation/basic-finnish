@@ -5038,7 +5038,7 @@ di-vaa-ni
 di-va-ri
 di-vi-si-oo-na
 di-vi-si-oo-nan-ko-men-ta-ja
-dixie-land
+di-xie-land
 D-mark-ka
 DNA
 do-ber-man-ni
@@ -7677,7 +7677,7 @@ e-väs-tää
 e-väs-voi-lei-pä
 e-vä-tä
 ex-
-exi-mi-a cum lau-de app-ro-ba-tur
+e-xi-mi-a cum lau-de app-ro-ba-tur
 ex-lib-ris
 ex tem-po-re
 faa-be-li
@@ -41381,12 +41381,12 @@ mart-tyy-rink-ruu-nu
 mart-tyy-rius
 mart-tyy-riys
 ma-ru-na
-marxi-lai-nen
-marxi-lais-le-ni-ni-läi-nen
-marxi-lai-suus
-marxis-mi
-marxis-mi-le-ni-nis-mi
-marxis-ti
+mar-xi-lai-nen
+mar-xi-lais-le-ni-ni-läi-nen
+mar-xi-lai-suus
+mar-xis-mi
+mar-xis-mi-le-ni-nis-mi
+mar-xis-ti
 ma-sa-rii-ni
 ma-sen-nus
 ma-sen-nus-kau-si
@@ -78157,7 +78157,7 @@ teu-to-ni
 te-va-na-ke-te-ol-li-suus
 te-va-te-ol-li-suus
 te-va-vien-ti
-texa-si-lai-nen
+te-xa-si-lai-nen
 tex-mex-ruo-ka
 thai
 thai-maa-lai-nen
