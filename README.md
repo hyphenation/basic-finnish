@@ -15,11 +15,11 @@ there are two words "video" and "projektori".)
 However, the many exceptional patterns that help with some compound
 words come with side effects. For example, "paprika" has "pr" too and
 the exception made for things like "video-projektori" keeps "pr"
-together also in words like "papri-ka" (really: "pap-ri-ka"). There are
-many similar situations. For example, word "housut" is not hyphenated at
-all because there is a pattern which prevents hyphenating between "u"
-and "s" (to help with some compound words). The output is sometimes
-unexpected.
+together also in words like "papri-ka" (really: "pap-ri-ka"). Word
+"housut" is not hyphenated at all because there is a pattern which
+prevents hyphenating between "u" and "s" (in order to help with some
+compound words). There are many similar situations and the output is
+sometimes unexpected.
 
 This project develops a new optional hyphenation variant for Finnish.
 The new variant follows only the basic Finnish hyphenation rules and
@@ -28,7 +28,8 @@ a bit more manual hyphenation hints with compound words
 ("video\-projektori"). The positive side is that the output is expected
 because it just follows the basic rules. A text author knows in advance
 when manual help is needed. This basic hyphenation variant also gives
-more possible hyphenation points.
+more possible hyphenation points. Not all of them are ideal in
+typography ("kofe-iini") but are perhaps acceptable in some cases.
 
 Currently this new variant is a work in progress. It's not integrated to
 (La)TeX packages or distributions.
