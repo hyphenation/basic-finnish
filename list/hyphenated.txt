@@ -475,13 +475,13 @@ ai-doit-taa
 ai-dos-ti
 AIDS
 AIDS-po-ti-las
-aie
-aiem-min
-aiem-pi
-aien-nus
-aien-taa
-aie-pöy-tä-kir-ja
-aie-so-pi-mus
+ai-e
+ai-em-min
+ai-em-pi
+ai-en-nus
+ai-en-taa
+ai-e-pöy-tä-kir-ja
+ai-e-so-pi-mus
 ai-he
 ai-heel-li-nen
 ai-heel-li-ses-ti
@@ -1768,7 +1768,7 @@ a-lu-mi-noin-ti
 a-lum-pa-na
 a-lun
 a-lu-na
-a-lu-na-liuos
+a-lu-na-liu-os
 a-lun al-ka-en
 a-lu-nen
 a-lun pe-rin
@@ -7072,7 +7072,7 @@ er-sä
 er-sän kie-li
 e-rup-tii-vi-ki-vi-la-ji
 e-rup-tii-vi-nen
-e-ryt-ro-poie-tii-ni
+e-ryt-ro-poi-e-tii-ni
 e-rä
 e-rä-a-jo
 e-rä-a-lu-e
@@ -9965,7 +9965,7 @@ hau-da-ta
 hau-de
 hau-de-hoi-to
 hau-de-kat-ti-la
-hau-de-liuos
+hau-de-liu-os
 hau-de-nes-te
 hau-de-re-hu
 hau-de-si-dos
@@ -13045,7 +13045,7 @@ huos-taa-not-to
 huos-tas-sa
 huos-tas-ta
 huot-ra
-huoun-ta
+huo-un-ta
 huo-va-ta
 huo-vi
 huo-vi-kas
@@ -16935,7 +16935,7 @@ joi-ku
 joi-ku-a
 joint ven-tu-re -y-ri-tys
 jois-to
-joiun-ta
+joi-un-ta
 jo-jo
 jo-jo-laih-dut-ta-mi-nen
 jo-ka
@@ -16983,7 +16983,7 @@ jo-ki-sa-ta-ma
 jo-ki-sim-puk-ka
 jo-ki-suu
 jo-ki-tör-mä
-jo-kiuo-ma
+jo-kiu-o-ma
 jo-ki-var-si
 jo-ki-verk-ko
 jo-ki-väy-lä
@@ -18128,7 +18128,7 @@ jäl-ki-jä-ris-tys
 jäl-ki-jät-töi-nen
 jäl-ki-jät-töi-syys
 jäl-ki-kai-ku
-jäl-ki-kaiun-ta
+jäl-ki-kai-un-ta
 jäl-ki-kan-to
 jäl-ki-kas-vi
 jäl-ki-kas-vu
@@ -18518,7 +18518,7 @@ jä-te-lai-tos
 jä-te-la-si
 jä-te-lau-ta
 jä-te-li-pe-ä
-jä-te-liuos
+jä-te-liu-os
 jä-te-läm-pö
 jä-te-myl-ly
 jä-te-mä-ki
@@ -19402,13 +19402,13 @@ kai-ta-lui-nen
 kait-se-a
 kait-sel-mus
 kait-si-ja
-kaiun-ta
-kaiu-tel-la
-kaiu-tin
-kaiu-ti-nau-to
-kaiu-tin-pu-he-lin
-kaiu-ton
-kaiut-taa
+kai-un-ta
+kai-u-tel-la
+kai-u-tin
+kai-u-ti-nau-to
+kai-u-tin-pu-he-lin
+kai-u-ton
+kai-ut-taa
 kai-vaa
 kai-va-ja
 kai-van-nai-nen
@@ -22962,7 +22962,7 @@ keit-to-pul-lo
 keit-to-ruo-ka
 keit-to-suk-laa
 keit-to-suo-la
-keit-to-suo-la-liuos
+keit-to-suo-la-liu-os
 keit-to-tai-to
 keit-to-tai-toi-nen
 keit-to-ta-so
@@ -27000,7 +27000,7 @@ kol-li
 kol-li-kis-sa
 kol-lo
 kol-loi-di
-kol-loi-di-liuos
+kol-loi-di-liu-os
 kol-loi-di-nen
 kol-lok-vi-o
 kol-lok-viu-mi
@@ -33512,7 +33512,7 @@ lais-kan-läk-sy
 lais-kan-puls-ke-a
 lais-kan-päi-vä
 lais-kan-sit-ke-ä
-lais-kan-säie
+lais-kan-säi-e
 lais-kan-vir-ka
 lais-kas-ti
 lais-ki-ai-nen
@@ -37061,15 +37061,15 @@ liu-ku-va-run-koi-nen
 liu-ku-vas-ti
 liu-ku-ve-ne
 liu-ku-vuus
-liuos
-liuo-ta
-liuo-te
-liuo-tin
-liuot-taa
-liuo-tus
-liuo-tu-sai-ne
-liuo-tus-hoi-to
-liuo-tus-nes-te
+liu-os
+liu-o-ta
+liu-o-te
+liu-o-tin
+liu-ot-taa
+liu-o-tus
+liu-o-tu-sai-ne
+liu-o-tus-hoi-to
+liu-o-tus-nes-te
 lius-ka
 lius-kai-nen
 lius-ka-leh-ti-nen
@@ -41556,7 +41556,7 @@ ma-ti-ne-a-näy-tän-tö
 mat-jes-kas-ti-ke
 mat-jes-sil-li
 mat-ka
-mat-ka-aie
+mat-ka-ai-e
 mat-ka-ai-ka
 mat-kaa-ja
 mat-ka-a-jo
@@ -46863,7 +46863,7 @@ nii-ni-nen
 nii-ni-puu
 nii-ni-so-lu
 nii-ni-syy
-nii-ni-säie
+nii-ni-säi-e
 niin-ku
 niin kuin
 niin kut-sut-tu
@@ -48803,7 +48803,7 @@ o-huus
 oi
 oi-di-paa-li-nen
 oi-di-pus-komp-lek-si
-oie-ta
+oi-e-ta
 oi-joi
 oi-kais-ta
 oi-kai-su
@@ -53726,7 +53726,7 @@ pe-su-kar-hu
 pe-su-kin-nas
 pe-su-ko-ne
 pe-su-la
-pe-su-liuos
+pe-su-liu-os
 pe-su-mer-kin-tä
 pe-su-mok-ka
 pe-su-nes-te
@@ -55575,7 +55575,7 @@ poh-jus-tus
 poh-keen-väis-tö
 -poh-kei-nen
 poh-ti-a
-poies
+poi-es
 poi'in-ta
 poi'it-taa
 poi'i-tus
@@ -58465,7 +58465,7 @@ pus-kin
 pus-ku
 pus-ku-lii-tos
 pus-ku-ri
-pus-ku-ri-liuos
+pus-ku-ri-liu-os
 pus-ku-ri-vai-ku-tus
 pus-ku-ri-val-ti-o
 pus-ku-ri-vyö-hy-ke
@@ -61854,7 +61854,7 @@ rau-ta-tie-vau-nu
 rau-ta-tie-verk-ko
 rau-ta-tie-vir-kai-li-ja
 rau-ta-tie-vir-ka-mies
-rau-ta-tieyh-teys
+rau-ta-tie-yh-teys
 rau-ta-va-li-mo
 rau-ta-val-mis-te
 rau-ta-viht-ril-li
@@ -61875,7 +61875,7 @@ ra-vi-ku-nin-ga-tar
 ra-vin-ne
 ra-vin-ne-kuor-mi-tus
 ra-vin-ne-köy-hä
-ra-vin-ne-liuos
+ra-vin-ne-liu-os
 ra-vin-ne-pi-toi-nen
 ra-vin-ne-pi-toi-suus
 ra-vin-ne-ri-kas
@@ -61923,7 +61923,7 @@ ra-vin-to-la-työn-te-ki-jä
 ra-vin-to-la-vau-nu
 ra-vin-to-la-yh-ty-e
 ra-vin-to-la-y-lei-sö
-ra-vin-to-liuos
+ra-vin-to-liu-os
 ra-vin-to-loit-si-ja
 ra-vin-to-läh-de
 ra-vin-to-o-pil-li-nen
@@ -64002,7 +64002,7 @@ ruis-kaus
 ruis-kau-tel-la
 ruis-kaut-taa
 ruis-ke
-ruis-ke-liuos
+ruis-ke-liu-os
 ruis-ki-a
 ruis-korp-pu
 ruis-ku
@@ -65809,7 +65809,7 @@ saip-pu-a
 saip-pu-ai-nen
 saip-pu-a-ko-te-lo
 saip-pu-a-kup-la
-saip-pu-a-liuos
+saip-pu-a-liu-os
 saip-pu-an-pa-la
 saip-pu-a-oop-pe-ra
 saip-pu-a-pa-la
@@ -68185,7 +68185,7 @@ seu-ran-pi-to
 seu-ran-pi-tä-jä
 seu-ran-ta
 seu-ran-ta-jär-jes-tel-mä
-seu-ran-ta-kaiu-tin
+seu-ran-ta-kai-u-tin
 seu-ran-ta-ko-kous
 seu-ran-ta-lai-te
 seu-ran-ta-lo
@@ -70624,7 +70624,7 @@ son-ti-ai-nen
 son-tik-ka
 sont-sa
 soo-da
-soo-da-liuos
+soo-da-liu-os
 soo-da-ve-si
 soo-lo
 soo-lo-al-bu-mi
@@ -72539,7 +72539,7 @@ suo-lak-ko
 suo-lak-ko-kas-vi
 suo-la-kurk-ku
 suo-la-li-ha
-suo-la-liuos
+suo-la-liu-os
 suo-la-lo-hi
 suo-lam-pi
 suo-la-muik-ku
@@ -74397,8 +74397,8 @@ sä-häh-tää
 sä-häk-kyys
 sä-häk-kä
 sä-hä-käs-ti
-säie
-säie-kimp-pu
+säi-e
+säi-e-kimp-pu
 säih-ke
 säih-ky-sää-ri
 säih-ky-sää-ri-nen
@@ -76901,12 +76901,12 @@ tau-lu-koin-ti
 tau-lu-ko-ko-el-ma
 tau-lun-ke-hys
 tau-lu-te-le-vi-si-o
-tauo-ta
-tauo-ton
-tauot-taa
-tauot-to-mas-ti
-tauot-to-muus
-tauo-tus
+tau-o-ta
+tau-o-ton
+tau-ot-taa
+tau-ot-to-mas-ti
+tau-ot-to-muus
+tau-o-tus
 taus
 taus-ta
 taus-taa
@@ -78471,7 +78471,7 @@ tie-tää
 tie-tääk-seen
 tie-tön
 tie-verk-ko
-tieyh-teys
+tie-yh-teys
 ti-heik-kö
 ti-hen-nys
 ti-hen-ty-mä
@@ -79764,7 +79764,7 @@ tou-ko-kui-nen
 tou-ko-kuu
 tou-ko-pel-to
 tou-ko-työt
-touon-te-ko
+tou-on-te-ko
 tour-ne-dos
 tou-tain
 tou-vi
@@ -84897,10 +84897,10 @@ vah-vis-tut-taa
 vah-vui-nen
 vah-vuus
 vai
-vaien-nus
-vaien-taa
-vaien-tu-a
-vaie-ta
+vai-en-nus
+vai-en-taa
+vai-en-tu-a
+vai-e-ta
 vaih-dan-ta
 vaih-dan-ta-ta-lous
 vaih-de
@@ -88326,7 +88326,7 @@ ve-si-liu-koi-nen
 ve-si-liu-koi-suus
 ve-si-liu-ku-mä-ki
 ve-si-liu-ku-ra-ta
-ve-si-liuos
+ve-si-liu-os
 ve-sil-le-las-ku
 ve-sil-le-las-ku-ti-lai-suus
 ve-sil-lä-liik-ku-ja
@@ -88452,7 +88452,7 @@ ve-si-tys-tau-ti
 ve-si-täh-ti
 ve-si-täy-te
 ve-si-täyt-tei-nen
-ve-siuo-ma
+ve-siu-o-ma
 ve-siur-hei-lu
 ve-siur-hei-lu-la-ji
 ve-siu-rut
@@ -89209,7 +89209,7 @@ viik-si-käs
 -viik-si-nen
 viik-si-niek-ka
 viik-si-siip-pa
-viik-si-säie
+viik-si-säi-e
 vii-ku-na
 vii-ku-nan-leh-ti
 vii-ku-na-puu
@@ -90308,7 +90308,7 @@ vis-ko-a
 vis-kon-ta
 vis-koo-si
 vis-koo-si-kui-tu
-vis-koo-si-liuos
+vis-koo-si-liu-os
 vis-koo-si-nen
 vis-koo-si-suus
 vis-koo-sius
@@ -91646,7 +91646,7 @@ vä-ri-käs
 vä-ri-leik-ki
 vä-ri-lii-tu
 vä-ri-li-tog-ra-fi-a
-vä-ri-liuos
+vä-ri-liu-os
 vä-ril-li-nen
 vä-ril-li-syys
 vä-ri-lois-to
