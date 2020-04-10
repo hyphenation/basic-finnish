@@ -34,7 +34,7 @@ if not Path(dictfname).exists():
 
 # Generate the patterns from a context-free grammar.
 pattern_grammar = CFG.fromstring("""
-  S -> '1' K V | V '1' V | DOTKK | REST
+  S -> '1' K V | V '1' V | VVV | DOTKK | REST
   V -> 'a' | 'e' | 'i' | 'o' | 'u' | 'y' | 'ä' | 'ö'
   K -> OBSTRUENT | LIQUID | SIBILANTS | NASALS | GLIDES | 'v' | 'w'
   OBSTRUENT -> 'b' | 'c' | 'd' | 'f' | 'g' | 'k' | 'p' | 'q' | 't' | 'x'
@@ -42,6 +42,27 @@ pattern_grammar = CFG.fromstring("""
   NASALS -> 'm' | 'n'
   GLIDES -> 'h' | 'j'
   SIBILANTS -> 's' | 'š' | 'z' | 'ž'
+  VVV -> 'a1ii' | 'a1uu' \
+    | 'e1ii' | 'e1uu' | 'e1yy' \
+    | 'i1ee' | 'i1uu' | 'i1yy' \
+    | 'o1ii' | 'o1uu' \
+    | 'u1ii' | 'u1oo' \
+    | 'y1ii' | 'y1öö' \
+    | 'ä1ii' | 'ä1yy' \
+    | 'ö1ii' | 'ö1yy' \
+    | 'aa1i' | 'aa1u' \
+    | 'ee1i' | 'ee1u' | 'ee1y' \
+    | 'ii1e' | 'ii1u' | 'ii1y' \
+    | 'oo1i' | 'oo1u' \
+    | 'uu1i' | 'uu1o' \
+    | 'yy1i' | 'yy1ö' \
+    | 'ää1i' | 'ää1y' \
+    | 'öö1i' | 'öö1y' \
+    | 'ai1e' | 'ai1u' | 'ai1y' | 'au1o' \
+    | 'ie1y' | 'iu1o' \
+    | 'oi1e' | 'ou1o' | 'oi1u' \
+    | 'uo1u' \
+    | 'äi1e'
   DOTKK -> '.' OBSTRUENT '2' LIQUID '2' \
     | '.c2h' \
     | '.d2ž' \
@@ -75,28 +96,7 @@ pattern_grammar = CFG.fromstring("""
     | '.t2š' \
     | '.w2h' \
     | '.z2l'
-  REST -> '.d2na' | '.l2vi' \
-    | 'a1ii' | 'a1uu' \
-    | 'e1ii' | 'e1uu' | 'e1yy' \
-    | 'i1ee' | 'i1uu' | 'i1yy' \
-    | 'o1ii' | 'o1uu' \
-    | 'u1ii' | 'u1oo' \
-    | 'y1ii' | 'y1öö' \
-    | 'ä1ii' | 'ä1yy' \
-    | 'ö1ii' | 'ö1yy' \
-    | 'aa1i' | 'aa1u' \
-    | 'ee1i' | 'ee1u' | 'ee1y' \
-    | 'ii1e' | 'ii1u' | 'ii1y' \
-    | 'oo1i' | 'oo1u' \
-    | 'uu1i' | 'uu1o' \
-    | 'yy1i' | 'yy1ö' \
-    | 'ää1i' | 'ää1y' \
-    | 'öö1i' | 'öö1y' \
-    | 'ai1e' | 'ai1u' | 'ai1y' | 'au1o' \
-    | 'ie1y' | 'iu1o' \
-    | 'oi1e' | 'ou1o' | 'oi1u' \
-    | 'uo1u' \
-    | 'äi1e'
+  REST -> '.d2na' | '.l2vi'
 """)
 
 level2_grammar = CFG.fromstring("""
