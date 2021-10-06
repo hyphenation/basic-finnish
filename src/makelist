@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Copyright (C) Arthur Reutenauer 3 April 2020
+# Copyright (C) Arthur Rosendahl 2020–2021, Teemu Likonen 2020
 # MIT licence (https://opensource.org/licenses/MIT)
 
 from hyphenator import Hyphenator
@@ -60,7 +60,7 @@ pattern_grammar = CFG.fromstring("""
     | 'öö1i' | 'öö1y' \
     | 'ai1e' | 'ai1u' | 'ai1y' | 'au1o' \
     | 'ie1y' | 'iu1o' \
-    | 'oi1e' | 'ou1o' | 'oi1u' \
+    | 'oi1e' | 'ou1o' | 'oi1u' | 'o1ui' | 'o2uil' \
     | 'uo1u' \
     | 'äi1e'
   DOTKK -> '.' OBSTRUENT '2' LIQUID '2' \

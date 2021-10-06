@@ -3700,8 +3700,8 @@ a-vant-gar-dis-mi
 a-vant-gar-dis-ti
 a-vant-gar-dis-ti-nen
 a-van-to
-a-van-toui-ma-ri
-a-van-touin-ti
+a-van-to-ui-ma-ri
+a-van-to-uin-ti
 a-va-ra
 a-va-ra-kat-sei-nen
 a-va-ra-kat-sei-ses-ti
@@ -10378,9 +10378,9 @@ heit-to-lii-na
 heit-to-merk-ki
 heit-to-pe-li
 heit-to-pus-si
-heit-touis-te-lu
-heit-touis-tin
-heit-touis-tin-ka-las-tus
+heit-to-uis-te-lu
+heit-to-uis-tin
+heit-to-uis-tin-ka-las-tus
 heit-to-va-pa
 heit-to-vuo-ro
 heit-to-ym-py-rä
@@ -15807,7 +15807,7 @@ ir-to-ta-va-ra
 ir-to-ti-heys
 ir-to-ti-la-vuus
 ir-to-tuk-ka
-ir-touit-to
+ir-to-uit-to
 ir-to-vuo-ri
 ir-vail-la
 ir-vai-lu
@@ -24866,7 +24866,7 @@ kiin-to-ras-ti
 kiin-to-ti-heys
 kiin-to-ti-la-vuus
 kiin-to-täh-ti
-kiin-touit-to
+kiin-to-uit-to
 kiin-ty-mys
 kiin-ty-nei-syys
 kiin-ty-ä
@@ -75376,7 +75376,7 @@ tai-tos
 tai-tos-koh-ta
 tai-to-temp-pu
 tai-to-tie-to
-tai-touin-ti
+tai-to-uin-ti
 tai-to-vir-he
 tai-to-voi-mis-te-lu
 tait-se
@@ -88556,8 +88556,8 @@ ve-to-pyö-räs-tö
 ve-to-sol-mu
 ve-to-suun-ta
 ve-to-te-li-ne
-ve-touis-te-lu
-ve-touis-tin
+ve-to-uis-te-lu
+ve-to-uis-tin
 ve-to-vai-je-ri
 ve-to-vau-nu
 ve-to-voi-ma
