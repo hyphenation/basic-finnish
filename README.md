@@ -22,17 +22,17 @@ compound words). There are many similar situations and the output is
 sometimes unexpected.
 
 This project develops a new optional hyphenation variant for Finnish.
-The new variant follows only the basic Finnish hyphenation rules and
-doesn't try to handle compounds words. The use of this variant requires
-a bit more manual hyphenation hints with compound words
-("video\-projektori"). The positive side is that the output is expected
-because it just follows the basic rules. A text author knows in advance
-when manual help is needed. This basic hyphenation variant also gives
-more possible hyphenation points. Not all of them are ideal in
-typography ("kofe-iini") but are perhaps acceptable in some cases.
+The new variant follows only the basic Finnish hyphenation rules, so it
+produces all possible hyphenation points. This variant doesn't have
+special rules for handling some compounds words and hyphenation is
+allowed between two vowels ("kofe-iini") which is not ideal in
+typography.
 
-Currently this new variant is a work in progress. It's not integrated to
-(La)TeX packages or distributions.
+The use of this variant requires a bit more manual hyphenation hints
+with compound words ("video\-projektori") and some other cases. The
+positive side is that the output is expected because it just follows
+well-known basic rules. A document author knows in advance when manual
+help is needed.
 
 ## Installation
 
